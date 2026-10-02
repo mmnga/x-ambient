@@ -51,5 +51,11 @@
       "run_at": "document_idle"
     }
   ],
-  "default_locale": "en"
+  "default_locale": "en",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "x-ambient@mmnga.dev",
+      "strict_min_version": "121.0"
+    }
+  }
 }

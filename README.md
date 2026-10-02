@@ -2,7 +2,7 @@
 
 Ambient light for X, Instagram, Twitch, Kick, TikTok For You and Niconico videos. Open an X post's details for automatic lighting, hover over X timeline posts or replies, browse Instagram's feed or Reels or TikTok's For You feed, or watch a video on Twitch, Kick or Niconico to illuminate the page.
 
-English · [Español](README.es.md) · [日本語](README.ja.md) · [Install](INSTALL.md)
+English · [Español](README.es.md) · [Português Brasil](README.ptbr.md) · [日本語](README.ja.md) · [Install](INSTALL.md)
 
 [![CI](https://github.com/mmnga/x-ambient/actions/workflows/ci.yml/badge.svg)](https://github.com/mmnga/x-ambient/actions/workflows/ci.yml)
 
